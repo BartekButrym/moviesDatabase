@@ -21,6 +21,7 @@
   },
   "devDependencies": {
     "chai-http": "^3.0.0",
+    "mocha": "^5.0.2",
     "nodemon": "^1.17.1"
   }
 }
