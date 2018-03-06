@@ -1,0 +1,26 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Bartosz Butrym",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chai": "^4.1.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.8",
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {
+    "chai-http": "^3.0.0",
+    "nodemon": "^1.17.1"
+  }
+}
